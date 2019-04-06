@@ -59,7 +59,6 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
                 >>= relativizeUrls
 
-
     match "index.html" $ do
         route idRoute
         compile $ do
@@ -75,7 +74,6 @@ main = hakyll $ do
                 >>= relativizeUrls
 
     match "templates/*" $ compile templateBodyCompiler
-
 
 --------------------------------------------------------------------------------
 postCtx :: Context String
