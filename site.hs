@@ -59,6 +59,14 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
                 >>= relativizeUrls
 
+{-
+    match "calendar.html" $ do
+        route   $ setExtension "html"
+        compile $ pandocCompiler
+            -- >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
+-}
+
     match "index.html" $ do
         route idRoute
         compile $ do
