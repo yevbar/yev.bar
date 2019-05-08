@@ -1,3 +1,7 @@
+---
+title: College
+tags: college, admissions, future
+---
 # College results
 
 It is the start of May at time of writing this and also generally safe that there won't be any updates or suprises with regard to my college admissions.

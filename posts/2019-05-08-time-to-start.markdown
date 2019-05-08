@@ -1,3 +1,7 @@
+---
+title: Working
+tags: start, working, future
+---
 # Time to start working
 
 I could do a quck spiel about who I am or what I do but, really, that's supposed to go on the [home page](https://yev.bar) so, in that case, I'll just lay out what I'm hoping to get out of this:
