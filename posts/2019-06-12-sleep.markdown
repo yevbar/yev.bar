@@ -1,0 +1,69 @@
+---
+title: Sleep
+tags: sleep, productivity
+---
+
+# Sleep
+
+As of June 4th, I was no longer a high school student. Now that I'm graduated, I can work full time at my current job (Software Engineering Intern at [LaunchDarkly](https://launchdarkly.com)). And, also as a consequence of graduating from high school, I can control my daily schedule!
+
+## Initial experiment
+
+Over the past few days, I've attempted a 24-hour based schedule where every day has the same template which would look something like this:
+
+```
+06:00 - Wake up
+06:15 - Go out for jog
+06:45 - Finish jog / Come home
+06:50 - Shower + Brush teeth
+07:00 - Dry hair + Prepare bag for work
+07:10 - INSERT
+08:00 - Leave for work
+09:00 - Arrive at work
+17:00 - Finish work + Head home
+18:00 - Arrive home
+18:15 - INSERT
+22:00 - Go to sleep
+```
+
+The `INSERT` blocks are large blocks of time that I can actually fill up (with chores, projects, lecture/video watching, etc). On the days that this follows through, I was in a strong state of flow throughout the entire day and generally felt as though I was productive.
+
+One of the primary goals for having this layout is that, whether I was on the train headed someplace or sitting at my desk at work, I did not want to have any conscious entropy about the idea of "What will I be doing next?". Basically, I didn't want to worry about a day ending up unproductive because I didn't plan out my proceeding steps. This was not a worry with the above template.
+
+However, one of the big pitfalls/downsides of this approach is **sleep**. Specifically, there were two worrisome states:
+
+1) Going to sleep at 10:00 PM when I feel as though as I could be awake **and** productive for couple more hours. Even worse is when I spend 1-2 hours effecitvely twiddling my thumbs waiting to even get tired.
+
+2) Waking up at 6:00 AM and having a difficulty getting out of the bed. The question being why bother getting up this early when the only thing I _really_ need to do is go to work.
+
+And, so, three ideas emerge
+
+1) Getting 8 hours is a standard and healthy number for hours of sleep per night but, perhaps, that number doesn't need to be hit _every night_. Reviewing point #2 from above, I am likely to always hit a motivational wall every morning unless I am waking up naturally. Perhaps a 48 hour template where I get 8/6/8/6 hours of sleep per night would allow for me to obtain those additional hours of work in the evening.
+
+2) Forget the morning jog, go for something around lunch time and wake up closer to when I need to leave the house.
+
+3) Jog/exercise later in the day so, by the time I need to sleep, I'm feeling a lot more tired/ready to sleep
+
+4) Polyphasic sleep - Bit more extreme than the 8/6/8/6 sleep schedule mentioned in #1 but how about something that involves napping for 4 hours in every 16 hour block
+
+```
+8:00 AM Wake up + Leave house
+9:00 AM Arrive at work
+5:00 PM Finish workday
+6:00 PM Arrive at home
+12:00 AM Nap
+4:00 AM Wake up
+8:00 AM Leave house
+9:00 AM Arrive at work
+5:00 PM Finish workday
+6:00 PM Arrive at home
+8:00 PM Nap
+12:00 AM Wake up...
+
+```
+
+Or, maybe better, a popular polyphasic sleep schedule (can be discovered via word of mouth and/or Reddit)
+
+## Next steps
+
+I will likely be incorporating ideas 1, 2, and 3 (from the above list) and may explore 4 (polyphasic sleep schedule) some time later during the summer. Updated template to be recorded soon!
